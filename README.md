@@ -21,7 +21,7 @@
 ```python
 analyst = {
     "name"       : "Akshay Morya",
-    "role"       : "Junior Data Analyst",
+    "role"       : "JData Analyst",
     "location"   : "India 🇮🇳",
     "passion"    : "Transforming messy data into clear business insights",
     "currently"  : "Building dashboards & sharpening SQL skills",
